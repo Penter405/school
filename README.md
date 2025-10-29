@@ -7,9 +7,14 @@
 
 <img width="495" height="122" alt="image" src="https://github.com/user-attachments/assets/efeca370-d55d-43d4-a1f5-8126ccd6f3ec" />
 
-##詢問盲人輔助系統
-
-<img width="856" height="671" alt="image" src="https://github.com/user-attachments/assets/44cdcf4f-d30b-4542-bd16-91d66379e55d" />
+## 詢問盲人輔助系統
 
 <img width="1104" height="625" alt="image" src="https://github.com/user-attachments/assets/c498b9a1-4963-44ed-9057-16ebe3011d09" />
 
+## 減少等待焦慮
+
+<img width="1122" height="472" alt="image" src="https://github.com/user-attachments/assets/226b9cd6-5f3a-475a-afd2-b608e04e4952" />
+
+## 記憶功能
+
+<img width="1139" height="512" alt="image" src="https://github.com/user-attachments/assets/56959d98-f5ad-45a5-9f05-1af7ff067f7f" />
